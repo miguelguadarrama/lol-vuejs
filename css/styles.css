@@ -1,0 +1,21 @@
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+ul.champion-list {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    font-size: 0;
+}
+
+ul.champion-list li {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
